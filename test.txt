@@ -1,0 +1,6 @@
+[
+    "chuj",
+    "chuja",
+    "pierdolic",
+    "Pierdolić!",
+]
