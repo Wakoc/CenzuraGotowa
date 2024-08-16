@@ -3,4 +3,6 @@
     "chuja",
     "pierdolic",
     "Pierdolić",
+    "kurwa",
+    "kurwić",
 ]
